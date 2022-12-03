@@ -9,25 +9,25 @@ Here's a list of possible languages/tools to solve the daily challenges.
 
 - [X] Go
 - [X] Groovy
-- [] Scala
+- [ ] Scala
 - [X] Spreadsheet \(Google Sheets\)
-- [] Typescript
-- [] Lisp
-- [] Bash
-- [] Python
-- [] C
-- [] Dart
-- [] Bash
-- [] Java
-- [] Zig
-- [] Rush
-- [] Scratch
-- [] Perl
-- [] Haskell
-- [] Ruby
-- [] Lua
-- [] Kotlin
-- [] Clojure
-- [] Elixir
-- [] Fortran
-- [] R
+- [ ] Typescript
+- [ ] Lisp
+- [ ] Bash
+- [ ] Python
+- [ ] C
+- [ ] Dart
+- [ ] Bash
+- [ ] Java
+- [ ] Zig
+- [ ] Rush
+- [ ] Scratch
+- [ ] Perl
+- [ ] Haskell
+- [ ] Ruby
+- [ ] Lua
+- [ ] Kotlin
+- [ ] Clojure
+- [ ] Elixir
+- [ ] Fortran
+- [ ] R
