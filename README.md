@@ -20,7 +20,7 @@ Here's a list of possible languages/tools to solve the daily challenges.
 - [ ] Bash
 - [ ] Java
 - [ ] Zig
-- [ ] Rush
+- [ ] Rust
 - [ ] Scratch
 - [ ] Perl
 - [ ] Haskell
