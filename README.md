@@ -14,7 +14,7 @@ Here's a list of possible languages/tools to solve the daily challenges.
 - [ ] Typescript
 - [ ] Lisp
 - [ ] Bash
-- [ ] Python
+- [Xs] Python
 - [ ] C
 - [ ] Dart
 - [ ] Bash
@@ -24,8 +24,8 @@ Here's a list of possible languages/tools to solve the daily challenges.
 - [ ] Scratch
 - [ ] Perl
 - [ ] Haskell
-- [ ] Ruby
-- [ ] Lua
+- [X] Ruby
+- [X] Lua
 - [ ] Kotlin
 - [ ] Clojure
 - [ ] Elixir
